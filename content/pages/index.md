@@ -285,7 +285,7 @@ sections:
     type: DividerSection
 seo:
   metaTitle: Alpha40
-  metaDescription: This demo site is built with Netlify Create.
+  metaDescription: Alpha40 2D platformer game
   socialImage: /images/main-hero.jpg
   type: Seo
 type: PageLayout
