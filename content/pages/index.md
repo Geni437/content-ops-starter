@@ -8,17 +8,10 @@ sections:
       color: text-dark
       type: TitleBlock
     subtitle: ''
-    text: >+
-      # ****
-
-
-
-
+    text: >
       Alpha40 (“we”, “us”, “our”) is committed to protecting your privacy. This
       Privacy Policy explains what data we collect when you play the Alpha40 2D
       platformer game, how we use it, who we share it with, and your rights.
-
-
 
 
       ## **1. Information We Collect**
@@ -112,8 +105,6 @@ sections:
       *   Any information you include in your message
 
 
-
-
       ## **2. How We Use Your Information**
 
 
@@ -138,8 +129,6 @@ sections:
       We **do not sell** your personal information.
 
 
-
-
       ## **3. Third-Party Services**
 
 
@@ -162,8 +151,6 @@ sections:
       you should review separately.
 
 
-
-
       ## **4. Children’s Privacy**
 
 
@@ -174,8 +161,6 @@ sections:
       data is identified, it will be deleted immediately.
 
 
-
-
       ## **5. Data Security**
 
 
@@ -184,8 +169,6 @@ sections:
 
 
       However, no online service or mobile system is completely secure.
-
-
 
 
       ## **6. Data Retention**
@@ -206,8 +189,6 @@ sections:
       Support correspondence is kept only until the matter is resolved.
 
 
-
-
       ## **7. Your Rights and Choices**
 
 
@@ -226,8 +207,6 @@ sections:
       To exercise any of these rights, contact us using the information below.
 
 
-
-
       ## **8. Changes to This Policy**
 
 
@@ -236,8 +215,6 @@ sections:
 
 
       Any updates will be posted with a new “Last Updated” date.
-
-
 
 
       ## **9. Contact Us**
@@ -252,9 +229,6 @@ sections:
       **Email:** [macveren.kapukare@green.com.na]()
 
       **Website:** green.com.na
-
-
-
     actions:
       - label: Get started
         altText: ''
