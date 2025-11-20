@@ -286,7 +286,6 @@ sections:
 seo:
   metaTitle: Alpha40
   metaDescription: Alpha40 2D platformer game
-  socialImage: /images/main-hero.jpg
   type: Seo
 type: PageLayout
 ---
