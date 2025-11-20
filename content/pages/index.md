@@ -8,10 +8,253 @@ sections:
       color: text-dark
       type: TitleBlock
     subtitle: ''
-    text: >
-      A Netlify Create website is a git repo that you own. Every code commit is
-      instantly reflected in the visual editor and since every visual edit is a
-      git commit, git workflows and collaboration just work.
+    text: >+
+      # ****
+
+
+
+
+      Alpha40 (“we”, “us”, “our”) is committed to protecting your privacy. This
+      Privacy Policy explains what data we collect when you play the Alpha40 2D
+      platformer game, how we use it, who we share it with, and your rights.
+
+
+
+
+      ## **1. Information We Collect**
+
+
+      We collect only the information required to operate the game, serve ads,
+      process purchases, and improve the user experience.
+
+
+      ### **1.1. Device & Technical Data**
+
+
+      *   Device type and model
+
+
+      *   Operating system version
+
+
+      *   General region (non-precise location)
+
+
+      *   Crash reports and performance logs
+
+
+      *   Advertising identifiers (e.g., Google Ad ID)
+
+
+      ### **1.2. Gameplay Data**
+
+
+      *   Level progress
+
+
+      *   High scores and achievements
+
+
+      *   Game settings and preferences
+
+
+      ### **1.3. Advertising Data**
+
+
+      To display ads or reward videos, third-party ad networks may collect:
+
+
+      *   Device advertising ID
+
+
+      *   IP address (non-precise)
+
+
+      *   Ad impressions, clicks, and view statistics
+
+
+      *   Basic device details for ad delivery, analytics, and fraud prevention
+
+
+      These providers may serve personalized or non-personalized ads depending
+      on your device or region settings.
+
+
+      ### **1.4. In-App Purchase Data**
+
+
+      When you make in-app purchases:
+
+
+      *   The platform provider (Google Play, Apple App Store, Steam, etc.)
+      processes the payment
+
+
+      *   We receive confirmation that the transaction was successful
+
+
+      We **do not** receive or store credit card numbers, banking details, or
+      any sensitive financial information.
+
+
+      ### **1.5. Voluntary Contact Information**
+
+
+      If you contact us for support or feedback:
+
+
+      *   Email address
+
+
+      *   Phone number (if provided)
+
+
+      *   Any information you include in your message
+
+
+
+
+      ## **2. How We Use Your Information**
+
+
+      We use collected information for:
+
+
+      *   Operating, maintaining, and improving the game
+
+
+      *   Delivering ads and managing ad rewards
+
+
+      *   Processing in-app purchase validations
+
+
+      *   Debugging issues and improving stability
+
+
+      *   Responding to player support requests
+
+
+      We **do not sell** your personal information.
+
+
+
+
+      ## **3. Third-Party Services**
+
+
+      Alpha40 uses trusted third-party services for ads, analytics, and payment
+      processing. These may include (depending on your platform):
+
+
+      *   Google AdMob / Unity Ads (advertising)
+
+
+      *   Unity Analytics / Firebase Analytics (crash reporting & performance
+      metrics)
+
+
+      *   Google Play Billing / Apple In-App Purchases / Steam Transactions
+      (payments)
+
+
+      These providers may collect data under their own privacy policies, which
+      you should review separately.
+
+
+
+
+      ## **4. Children’s Privacy**
+
+
+      Alpha40 is **not intended for children under the age of 13**.
+
+
+      We do not knowingly collect personal information from children. If such
+      data is identified, it will be deleted immediately.
+
+
+
+
+      ## **5. Data Security**
+
+
+      We take reasonable technical and administrative measures to protect
+      information.
+
+
+      However, no online service or mobile system is completely secure.
+
+
+
+
+      ## **6. Data Retention**
+
+
+      We retain data only as long as necessary to:
+
+
+      *   Support the game
+
+
+      *   Improve performance
+
+
+      *   Meet legal or platform-required obligations
+
+
+      Support correspondence is kept only until the matter is resolved.
+
+
+
+
+      ## **7. Your Rights and Choices**
+
+
+      Depending on your device and region, you may have the ability to:
+
+
+      *   Opt out of personalized ads
+
+
+      *   Reset or disable your advertising ID
+
+
+      *   Request access, correction, or deletion of your data
+
+
+      To exercise any of these rights, contact us using the information below.
+
+
+
+
+      ## **8. Changes to This Policy**
+
+
+      We may update this Privacy Policy as the game evolves or as legal
+      requirements change.
+
+
+      Any updates will be posted with a new “Last Updated” date.
+
+
+
+
+      ## **9. Contact Us**
+
+
+      If you have questions, feedback, or privacy-related requests, contact us
+      through:
+
+
+      **Phone:** +264 81 376 2072
+
+      **Email:** [macveren.kapukare@green.com.na]()
+
+      **Website:** green.com.na
+
+
+
     actions:
       - label: Get started
         altText: ''
